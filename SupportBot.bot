@@ -1,0 +1,15 @@
+{
+    "name": "SupportBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "a6b443c5-4431-475a-91f5-5a0bfb5d0469",
+            "id": "d46d5590-5aac-11e8-92c6-2768d0bc0f05",
+            "type": "endpoint",
+            "appPassword": "GmTXh7l&Dt&J$wg]",
+            "endpoint": "http://localhost:3984/api/messages",
+            "name": "http://localhost:3984/api/messages"
+        }
+    ]
+}

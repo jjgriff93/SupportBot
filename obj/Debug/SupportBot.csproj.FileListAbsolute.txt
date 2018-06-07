@@ -1,0 +1,531 @@
+C:\Users\jamesgr\source\repos\SupportBot\obj\Debug\SupportBot.csprojAssemblyReference.cache
+C:\Users\jamesgr\source\repos\SupportBot\obj\Debug\SupportBot.csproj.CoreCompileInputs.cache
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\csc.exe
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\csc.exe.config
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\csc.rsp
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\csi.exe
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\csi.rsp
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\System.AppContext.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\vbc.exe
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\vbc.exe.config
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\vbc.rsp
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamesgr\source\repos\SupportBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamesgr\source\repos\SupportBot\bin\Autofac.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Chronic.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\EntityFramework.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\EntityFramework.SqlServer.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Data.Edm.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Data.OData.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Data.Services.Client.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Newtonsoft.Json.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Net.Http.Formatting.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Spatial.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Web.Http.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Web.Http.WebHost.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\Autofac.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\EntityFramework.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\EntityFramework.SqlServer.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Data.Edm.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Data.OData.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.Data.Services.Client.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jamesgr\source\repos\SupportBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\Newtonsoft.Json.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Net.Http.Formatting.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Spatial.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Web.Http.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\System.Web.Http.WebHost.xml
+C:\Users\jamesgr\source\repos\SupportBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\de\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\es\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\fr\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\it\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ja\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ko\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\ru\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jamesgr\source\repos\SupportBot\obj\Debug\SupportBot.csproj.CopyComplete
+C:\Users\jamesgr\source\repos\SupportBot\bin\SupportBot.dll.config
+C:\Users\jamesgr\source\repos\SupportBot\bin\SupportBot.dll
+C:\Users\jamesgr\source\repos\SupportBot\bin\SupportBot.pdb
+C:\Users\jamesgr\source\repos\SupportBot\obj\Debug\SupportBot.dll
+C:\Users\jamesgr\source\repos\SupportBot\obj\Debug\SupportBot.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\csc.exe
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\csc.exe.config
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\csc.rsp
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\csi.exe
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\csi.rsp
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.AppContext.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\vbc.exe
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\vbc.exe.config
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\vbc.rsp
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamesgr\Desktop\SupportBot\bin\SupportBot.dll.config
+C:\Users\jamesgr\Desktop\SupportBot\bin\SupportBot.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\SupportBot.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Autofac.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Chronic.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\EntityFramework.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\EntityFramework.SqlServer.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Data.Edm.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Data.OData.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Data.Services.Client.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Newtonsoft.Json.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Net.Http.Formatting.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Spatial.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Web.Http.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Web.Http.WebHost.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Autofac.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\EntityFramework.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\EntityFramework.SqlServer.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Data.Edm.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Data.OData.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Data.Services.Client.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\Newtonsoft.Json.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Net.Http.Formatting.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Spatial.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Web.Http.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.Web.Http.WebHost.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\de\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\es\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\fr\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\it\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ja\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ko\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\ru\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jamesgr\Desktop\SupportBot\obj\Debug\SupportBot.csprojAssemblyReference.cache
+C:\Users\jamesgr\Desktop\SupportBot\obj\Debug\SupportBot.csproj.CoreCompileInputs.cache
+C:\Users\jamesgr\Desktop\SupportBot\obj\Debug\SupportBot.csproj.CopyComplete
+C:\Users\jamesgr\Desktop\SupportBot\obj\Debug\SupportBot.dll
+C:\Users\jamesgr\Desktop\SupportBot\obj\Debug\SupportBot.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\csi.exe.config
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Console.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.IO.Compression.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.Claims.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.ValueTuple.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\jamesgr\Desktop\SupportBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jamesgr\Desktop\SupportBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\obj\Debug\SupportBot.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\obj\Debug\SupportBot.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\SupportBot.dll.config
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\SupportBot.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\SupportBot.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\csc.exe
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\csc.exe.config
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\csc.rsp
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\csi.exe
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\csi.exe.config
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\csi.rsp
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.AppContext.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Console.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.IO.Compression.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.Claims.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.ValueTuple.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\vbc.exe
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\vbc.exe.config
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\vbc.rsp
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Autofac.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Chronic.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\EntityFramework.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\EntityFramework.SqlServer.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Data.Edm.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Data.OData.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Data.Services.Client.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Newtonsoft.Json.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Net.Http.Formatting.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Spatial.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Web.Http.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Web.Http.WebHost.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Autofac.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\EntityFramework.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\EntityFramework.SqlServer.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.Azure.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.History.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Data.Edm.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Data.OData.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Data.Services.Client.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\Newtonsoft.Json.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Net.Http.Formatting.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Spatial.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Web.Http.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\System.Web.Http.WebHost.xml
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\de\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\es\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\fr\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\it\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ja\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ko\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\ru\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\obj\Debug\SupportBot.csprojAssemblyReference.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\obj\Debug\SupportBot.csproj.CoreCompileInputs.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Customer projects\Rank\HR Bot\SupportBot\obj\Debug\SupportBot.csproj.CopyComplete
