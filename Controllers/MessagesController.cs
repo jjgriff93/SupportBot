@@ -44,8 +44,8 @@ namespace SupportBot
             {
                 if (message.MembersAdded.Any(o => o.Id == message.Recipient.Id))
                 {
-                    var greeting1 = message.CreateReply("Hi, I'm the Dynamics Help Bot for Rank, but my friends call me Hank!");
-                    var greeting2 = message.CreateReply("I'm here to help with any questions you have about Dynamics, whether it's managing POs and invoices, how to find certain features, and a lot more. I may not know everything yet but I learn from every interaction.");
+                    var greeting1 = message.CreateReply("Hi, I'm the Support Bot, but my friends call me Spot!");
+                    var greeting2 = message.CreateReply("I'm here to help with any questions you have about X. I may not know everything yet but I learn from every interaction.");
                     var greeting3 = message.CreateReply("Try asking me a question.");
                     ConnectorClient connector = new ConnectorClient(new Uri(message.ServiceUrl));
                     await connector.Conversations.ReplyToActivityAsync(greeting1);
@@ -58,9 +58,9 @@ namespace SupportBot
             {
                 if (message.Action == "add")
                 {
-                    var greeting1 = message.CreateReply("Hi, I'm the Dynamics Help Bot for Rank, but my friends call me Hank!");
-                    var greeting2 = message.CreateReply("I'm here to help with any questions you have about Dynamics, whether it's managing POs and invoices, how to find certain features, and a lot more. I may not know everything yet but I learn from every interaction.");
-                    var greeting3 = message.CreateReply("Try asking me a question.");
+                    var greeting1 = message.CreateReply("Hi, I'm the Support Bot, but my friends call me Spot!");
+                    var greeting2 = message.CreateReply("I'm here to help with any questions you have about X. I may not know everything yet but I learn from every interaction.");
+                    var greeting3 = message.CreateReply("Try asking me a question. <a href='http://www.google.com/'>Link</a>");
                     ConnectorClient connector = new ConnectorClient(new Uri(message.ServiceUrl));
                     await connector.Conversations.ReplyToActivityAsync(greeting1);
                     await connector.Conversations.ReplyToActivityAsync(greeting2);
