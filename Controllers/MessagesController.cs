@@ -46,7 +46,7 @@ namespace SupportBot
                 {
                     var greeting1 = message.CreateReply("Hi, I'm the Support Bot, but my friends call me Spot!");
                     var greeting2 = message.CreateReply("I'm here to help with any questions you have about X. I may not know everything yet but I learn from every interaction.");
-                    var greeting3 = message.CreateReply("Try asking me a question.");
+                    var greeting3 = message.CreateReply("Try asking me a question. <a href='http://www.google.com/'>Link</a>");
                     ConnectorClient connector = new ConnectorClient(new Uri(message.ServiceUrl));
                     await connector.Conversations.ReplyToActivityAsync(greeting1);
                     await connector.Conversations.ReplyToActivityAsync(greeting2);
